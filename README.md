@@ -8,7 +8,7 @@ Kotlin
 Android Studio 
 
 #### Topics Covered -   
-Intent, Recycler View, Linear Layout, Firestore Recycler Adapter, Android Architecture Components, MVVM Architecture, Kotlin Coroutines, Firebase Firestore, Google services authentication, SHA Fingerprint, Firestore Recycler Options.  
+Intent, Recycler View, Linear Layout, Firestore Recycler Adapter, Glide Library, Android Architecture Components, MVVM Architecture, Kotlin Coroutines, Firebase Firestore, Google services authentication, SHA Fingerprint, Firestore Recycler Options.  
 
   
 ### App Flow 
